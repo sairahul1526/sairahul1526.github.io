@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "id1",
+      "title": "title1",
+      "description": "description1",
+      "amount": "amount1",
+      "paid": "1"
+    },
+    {
+      "id": "id2",
+      "title": "title2",
+      "description": "description2",
+      "amount": "amount2",
+      "paid": "0"
+    },
+    {
+      "id": "id3",
+      "title": "title3",
+      "description": "description3",
+      "amount": "amount3",
+      "paid": "1"
+    },
+    {
+      "id": "id4",
+      "title": "title4",
+      "description": "description4",
+      "amount": "amount4",
+      "paid": "1"
+    }
+  ],
+  "meta": {
+    "status": "200",
+    "message": "ok"
+  }
+}
